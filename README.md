@@ -57,7 +57,6 @@ After running the style transfer process, the output will be an image that maint
 ## Acknowledgments
 This project is based on the neural style transfer technique introduced by Gatys et al. (2016). The implementation uses PyTorch and the pre-trained VGG19 model.
 
-## License
-This project is open-source and available for use under the MIT License.
+
 
 
